@@ -2,3 +2,12 @@ h1 {
 	text-align: center;
 	color: blue;
 }
+.boton {
+	border-radius: 10px;
+	background-color: aquamarine;
+	margin: 5% 20%;
+	padding: 10px;
+}
+.boton:hover {
+	background-color: aqua;
+}
